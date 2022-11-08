@@ -12,3 +12,5 @@
 - git remote add origin [ssh key]
 - git branch -m main
 - gi push -u origin main
+
+## This is the way
